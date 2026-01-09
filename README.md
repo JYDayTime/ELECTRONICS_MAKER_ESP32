@@ -3,6 +3,7 @@ of Caution Tape Robotics Club
 
 These are all the projects to help improve childrens education in the field of STEM (Mainly Physics and Engineering)
 NOTE:  The firmware board used to program the electronics is  ESP32 - Freenove - WROVER
+
 Framework is always ARDUINO (Arduino Programming is done on these boards)
 
 I selected Freenove, the WROVER Kit as it is the easiest to program and not only focuses on simple electronics, but also components
