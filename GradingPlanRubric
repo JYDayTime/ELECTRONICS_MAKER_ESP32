@@ -9,20 +9,27 @@ LEVEL 2 -  (Grades 03 and 04)
 Purely Electronic Basics
 - Resistors, Capacitors, and Inductors
 - Applied Math to Electronics
+- No Programming, all electronic components, and instructions provided must be mandatory
+(Grades 3 and 4 are not going to CAD and model their own PCBs)
+- Only Electronics goes here
 
 
 LEVEL 3 - (Grades 05 and 06)
 Introduce Arduino IDE and Arduino UNO and ESP32 and  Microcontroller
-- 
-
+- Start with the INTRO files
+- C++ Programming would go here
+- Maybe Python? Micropython for Python Programming on ESP32 would go here
+- Servo Motors
+- LEDs and Electronics Parts
 
 LEVEL 4 -  (Grades 07 and 08)
 More Projects Using Arduino IDE or ESP32
-
+- Client vs Server Model
+- 
 
 
 LEVEL 5 - (Grades 09 and 10)
-This is the concluding lessons
+This is the concluding lessons and where students make their own 
 
 
 
