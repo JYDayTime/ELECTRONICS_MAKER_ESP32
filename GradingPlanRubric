@@ -5,6 +5,11 @@ Purely introduction and no electronics used here.
 There is no actual electronic lessons here since, 3D printing / drawing
 or the most basic classes would go here.
 
+Level 1 is mostly CAD and 3D Printing CAD so the closest to electronics would be wiring and only instructors
+would be able to do the electronics while explaining the students on the basics 
+of electricity and pure basics of electronics.
+
+
 LEVEL 2 -  (Grades 03 and 04)
 Purely Electronic Basics
 - Resistors, Capacitors, and Inductors
@@ -21,19 +26,27 @@ Introduce Arduino IDE and Arduino UNO and ESP32 and  Microcontroller
 - Maybe Python? Micropython for Python Programming on ESP32 would go here
 - Servo Motors
 - LEDs and Electronics Parts
+- Purely Breadboard and Breadboard circuits would go here
 
 LEVEL 4 -  (Grades 07 and 08)
 More Projects Using Arduino IDE or ESP32
+Here, This doesn't use the breadboard much 
 - Client vs Server Model
-- 
+- Combining 3D Modeling, AI Coding, and Electronics Classes Level 1 2 and 3 goes here
+- Making their own personal projects
+- Introduce Wireless Communications / 
+- Bluetooth Communications
 
 
 LEVEL 5 - (Grades 09 and 10)
-This is the concluding lessons and where students make their own 
-
+This is the concluding lessons and where students make their own projects
+This is a continuation of Level 4 and more advanced, but there will still be files here for 
+- More Soldering classes
+- More 
 
 
 
 LEVEL 6 -  (Grades 11 and 12)
 The most fun and the most freedom based level, students have the most freedom here
 
+Students get to make their own projects, no help (minimal help required)
