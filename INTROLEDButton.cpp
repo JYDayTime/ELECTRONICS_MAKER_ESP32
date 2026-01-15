@@ -10,7 +10,7 @@
 **********************************************************************/
 #include <Arduino.h>
 #define PIN_LED    2
-#define PIN_BUTTON 13
+#define PIN_BUTTON 4
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin PIN_LED as an output.
@@ -35,3 +35,4 @@ void reverseGPIO(int pin) {
   digitalWrite(pin, !digitalRead(pin));
 
 }
+
