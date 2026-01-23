@@ -4,6 +4,8 @@ LEVEL 1 - (Grades 01 and 02)
 Purely introduction and no electronics used here.
 There is no actual electronic lessons here since, 3D printing / drawing
 or the most basic classes would go here.
+All Electronics are instructed or basically shown like LEGO instructions or how to connect them
+without any actual electronics classes.
 
 Level 1 is mostly CAD and 3D Printing CAD so the closest to electronics would be wiring and only instructors
 would be able to do the electronics while explaining the students on the basics 
@@ -16,7 +18,11 @@ Purely Electronic Basics
 - Applied Math to Electronics
 - No Programming, all electronic components, and instructions provided must be mandatory
 (Grades 3 and 4 are not going to CAD and model their own PCBs)
-- Only Electronics goes here
+- Only Electronics goes here, no programming
+- IMPORTANT:   NO BATTERIES ALLOWED:  Only Instructors or trained assistants are allowed to use batteries
+This is to ensure no young child shocks or harms themselves with electrical components such as batteries
+Batteries are only used or supplied by instructors unless if we allow them to use them.
+- Logic Gates and Digital Logic/Discrete Math may be taught here
 
 
 LEVEL 3 - (Grades 05 and 06)
@@ -28,9 +34,13 @@ Introduce Arduino IDE and Arduino UNO and ESP32 and  Microcontroller
 - LEDs and Electronics Parts
 - Purely Breadboard and Breadboard circuits would go here
 
+
 LEVEL 4 -  (Grades 07 and 08)
 More Projects Using Arduino IDE or ESP32
-Here, This doesn't use the breadboard much 
+Here, This doesn't use the breadboard much but it can still use breadboard for prototyping or 
+lessons to design and at least show them
+Larger projects are expected, but if they can't finish them or have to present their MAKER projects on a 
+breadboard, that would be allowed.
 - Client vs Server Model
 - Combining 3D Modeling, AI Coding, and Electronics Classes Level 1 2 and 3 goes here
 - Making their own personal projects
@@ -40,13 +50,21 @@ Here, This doesn't use the breadboard much
 
 LEVEL 5 - (Grades 09 and 10)
 This is the concluding lessons and where students make their own projects
+This would be the last level where it takes place in a classroom.
 This is a continuation of Level 4 and more advanced, but there will still be files here for 
 - More Soldering classes
-- More 
-
+- More ESP32 Projects
+- 
+-
 
 
 LEVEL 6 -  (Grades 11 and 12)
 The most fun and the most freedom based level, students have the most freedom here
-
+This would no longer be a classroom, but a place to work on their high school projects or anything
+Engineering and Science they want to work on.
+Students make their own projects and inform or tell their instructors what they want to work on
 Students get to make their own projects, no help (minimal help required)
+At this point, instructors act as helpers and guides and show them how electronic parts work and
+anything the students have questions about on how to make their own project.
+Students are expected to look up or research and find resources on their own, but help is of course
+still provided, but not alot of help compared to before.
