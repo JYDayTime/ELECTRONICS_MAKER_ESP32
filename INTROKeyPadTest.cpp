@@ -1,3 +1,8 @@
+/*
+*  This is the Keypad test on the ESP32 - WROVER - FREENOVE Microcontroller
+*  Run this code to test if keypad is working and when it runs, press 
+*  buttons on keypad to see a result on the VSCode Monitor.
+*/
 #include <Keypad.h>
 #include <Arduino.h>
 char keys[4][4] = {
