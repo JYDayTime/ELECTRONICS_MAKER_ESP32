@@ -4,8 +4,7 @@
                 Idea of Electronics, This should be one of the first
                 lessons to be with
   Description : Control LED by button, a simple task for kids.
-  Auther      : Carl Jeong  (I need to see a doctor... the ghost is tal
-                talking...)
+  Auther      : Carl Jeong
   Modification: 2025/12/23
 **********************************************************************/
 #include <Arduino.h>
@@ -35,4 +34,5 @@ void reverseGPIO(int pin) {
   digitalWrite(pin, !digitalRead(pin));
 
 }
+
 
